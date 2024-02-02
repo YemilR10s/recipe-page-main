@@ -68,7 +68,7 @@ body{
     font-size: 10px;
     
 }
-.preparation h4{
+.preparation h2{
     color: var(--Dark-Raspberry);
     font-size: 15px;
     padding: 10px 0;
@@ -79,7 +79,7 @@ body{
     color: var(--Wenge-Brown);
 }
 
-.preparation li{
+.preparation ul li{
     color: var(--Wenge-Brown);
     padding: 5px;
 }
@@ -87,13 +87,13 @@ body{
     margin-top: 30px;
     margin-bottom: 30px;
 }
-.ingredients h4{
+.ingredients h2{
     color: var(--Dark-Raspberry);
     font-size: 20px;
     padding: 10px 0;
 
 }
-.ingredients li{
+.ingredients ul li{
     color: var(--Wenge-Brown);
     padding: 5px;
     font-size: 12px;
@@ -118,7 +118,7 @@ body{
 .instructions{
     margin: 30px 0;
 }
-.instructions h4{
+.instructions h2{
     color: var(--Dark-Raspberry);
 
 }
@@ -139,7 +139,7 @@ body{
 .nutrition{
     margin: 30px 0;
 }
-.nutrition h4{
+.nutrition h2{
     color: var(--Dark-Raspberry);
 
 }
